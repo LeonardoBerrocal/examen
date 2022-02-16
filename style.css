@@ -6,11 +6,22 @@ h1 {
     color: blue;
     text-decoration-line: underline;
 }
-p.bitcoin {
+div.bitcoin {
     color: blue;
     text-align: right;
 }
-p.etherum {
+div.etherum {
     color: blue;
     text-align: center;
+    background-color: white;
+}
+div.litecoin {
+    color: blue;
+}
+div.nombre {
+    background-color: yellow;
+    text-align: center;
+}
+span.nombre2{
+    color: red;
 }
