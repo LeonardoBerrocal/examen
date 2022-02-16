@@ -1,0 +1,16 @@
+body {
+    background-color:  coral;
+}
+h1 {
+    text-align: center;
+    color: blue;
+    text-decoration-line: underline;
+}
+p.bitcoin {
+    color: blue;
+    text-align: right;
+}
+p.etherum {
+    color: blue;
+    text-align: center;
+}
